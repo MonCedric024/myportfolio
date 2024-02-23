@@ -2,7 +2,7 @@ import "./FooterStyle.css"
 
 import React from 'react'
 
-import {FaHome, FaPhone, FaMailBulk, FaFacebook, FaInstagram, FaTwitter} from "react-icons/fa";
+import {FaHome, FaPhone, FaMailBulk, FaFacebook, FaInstagram, FaLinkedin} from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -27,7 +27,7 @@ const Footer = () => {
             </div>
             <div className="right">
                 <h4>About Me</h4>
-                <p>This is me Mon Cedric Avila 4th year student of Quezon City University.</p>
+                <p>Graduating Student and passionate programmer with a technical experience in web development. Intending to work in an environment where I can utilize the education I received in College as well as my technical experience as a developer.</p>
                 <div className="social">
                 <a href="https://www.facebook.com/avilamon024" target="_blank" rel="noreferrer">
                 <FaFacebook size={20} style={{ color: "white", marginRight: "2rem" }} />
@@ -35,8 +35,8 @@ const Footer = () => {
                 <a href="https://www.instagram.com/cedricavila/" target="_blank" rel="noreferrer">
                 <FaInstagram size={20} style={{ color: "white", marginRight: "2rem" }} />
                 </a>
-                <a href="https://www.facebook.com/avilamon024" target="_blank" rel="noreferrer">
-                <FaTwitter size={20} style={{ color: "white", marginRight: "2rem" }} />
+                <a href="https://www.linkedin.com/in/mon-cedric-avila-a515ab20b/" target="_blank" rel="noreferrer">
+                <FaLinkedin size={20} style={{ color: "white", marginRight: "2rem" }} />
                 </a>
                 </div>
             </div>
