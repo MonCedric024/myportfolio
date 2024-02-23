@@ -32,9 +32,9 @@ const NavBar = () => {
             <li>
                 <Link to="/project">Project</Link>
             </li>
-            <li>
+            {/* <li>
                 <Link to="/contact">Contact</Link>
-            </li>
+            </li> */}
             <li>
                 <Link to="https://drive.google.com/file/d/1UZn6K3dHTauRaMR2w_4wVckRI5-_v6Yz/view?usp=sharing" target="_blank" rel="noreferrer" className="btn">View CV</Link>
             </li>

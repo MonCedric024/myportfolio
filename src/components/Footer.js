@@ -18,7 +18,7 @@ const Footer = () => {
                 </div>
                 <div className="phone"> 
                     <h4><FaPhone size={20} style={{color: "white", marginRight: "2rem"}}/>
-                    +639480804906</h4>
+                    +639519786731</h4>
                 </div>
                 <div className="email"> 
                     <h4><FaMailBulk size={20} style={{color: "white", marginRight: "2rem"}}/>
@@ -35,7 +35,7 @@ const Footer = () => {
                 <a href="https://www.instagram.com/cedricavila/" target="_blank" rel="noreferrer">
                 <FaInstagram size={20} style={{ color: "white", marginRight: "2rem" }} />
                 </a>
-                <a href="#" target="_blank" rel="twitter">
+                <a href="https://www.facebook.com/avilamon024" target="_blank" rel="noreferrer">
                 <FaTwitter size={20} style={{ color: "white", marginRight: "2rem" }} />
                 </a>
                 </div>

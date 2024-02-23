@@ -11,8 +11,8 @@ const heroimage = () => {
         <img className="img" src={BackgroundImg} alt="BakcgroundImg"/>
       </div>
       <div className="content">
-        <p>HI, IM MON CEDRIC.</p>
-        <h1>Qcu Student.</h1>
+        <p>Hi, Im Mon Cedric.</p>
+        <h1>Full Stack Developer.</h1>
         <div className="button-container">
            <Link to="/project" className="btn btn-light">PROJECTS</Link>
            <Link to="/contact" className="btn">CONTACT</Link>
