@@ -30,13 +30,13 @@ const NavBar = () => {
                 <Link to="/">Home</Link>
             </li>
             <li>
-                <Link to="/project">Project</Link>
+                <Link to="/project">Projects</Link>
             </li>
             {/* <li>
                 <Link to="/contact">Contact</Link>
             </li> */}
             <li>
-                <Link to="https://drive.google.com/file/d/1UZn6K3dHTauRaMR2w_4wVckRI5-_v6Yz/view?usp=sharing" target="_blank" rel="noreferrer" className="btn">View CV</Link>
+                <Link to="https://drive.google.com/file/d/1UZn6K3dHTauRaMR2w_4wVckRI5-_v6Yz/view?usp=sharing" target="_blank" rel="noreferrer" className="btn">View My Curriculum Vitae</Link>
             </li>
         </ul>
         <div className="burgermenu" onClick={handleClick}>

@@ -31,7 +31,7 @@ const ProjectCardData = [
             <FaPhp size={30} style={{ marginRight: "1rem", color: "#474A8A" }} />,
           ],
         text: "Records Management for Barangay Culiat, Quezon City that helps the administrator manage records in the Barangay such as Resident Information,  Barangay Officials and Staff Information, Barangay Census, Graphical Reports, and Archive Management, for more efficient, reducing paper consumption and time-consuming file retrieval from bulky documents.",
-        view: "",
+        view: "/Temporaryunavailable",
     },
     {
         imgsrc: Project3,
@@ -88,7 +88,7 @@ const ProjectCardData = [
             <FaJs size={30} style={{ marginRight: "1rem", color: "#ffeb3b" }} />,
         ],
         text: "The Production Management System developed for Prulife UK serves as a comprehensive tool tailored to the specific needs of an insurance company. It efficiently maintains records, facilitates agent summary generation, and offers a range of features to streamline various operational aspects.",
-        view: "https://titanium2lia.com/hexa/about/developer",
+        view: "/Temporaryunavailable",
     },
     {
         imgsrc: Project8,
@@ -111,7 +111,7 @@ const ProjectCardData = [
             <FaJs size={30} style={{ marginRight: "1rem", color: "#ffeb3b" }} />,
         ],
         text: "The AFP LMS is a bespoke Learning Management System meticulously crafted to cater to the educational needs of the Philippine Air Force personnel. Designed to facilitate learning and professional development, this robust platform offers a wide array of features tailored to the unique requirements of military training and education. ",
-        view: "https://afpcmoschool.com/lms/about/developer/",
+        view: "/Temporaryunavailable",
     }
 ]
 

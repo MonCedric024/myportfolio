@@ -4,6 +4,7 @@ import Home from "./routes/Home"
 import About from "./routes/About"
 import Project from "./routes/Project"
 import Contact from "./routes/Contact"
+import Temporaryunavailable from "./routes/Temporaryunavailable"
 
 import { Route, Routes } from "react-router-dom";
 
@@ -15,6 +16,7 @@ function App() {
         <Route path="/About" element={<About />} />
         <Route path="/Project" element={<Project />} />
         <Route path="/Contact" element={<Contact />} />
+        <Route path="/Temporaryunavailable" element={<Temporaryunavailable />} />
       </Routes>
     </>
   );
